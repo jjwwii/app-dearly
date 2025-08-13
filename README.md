@@ -1,16 +1,16 @@
-# app_dearly
+# 경조사 App
+- [개발자: 조원일]
+- [Language: Dart]
+- [Framework: Flutter]
 
-A new Flutter project.
+Dart Version: 3.8.1
+Flutter Version: 3.32.8
 
-## Getting Started
+## Introduce
+살아가면서 경조사를 다녀와야 하거나 혹은 내 자신이 경조사를 치뤄야 하는 경우가 있습니다.
+그러다보면 돈을 내거나 받으면서 서로의 마음을 전달하게 되는 게 한국식 문화인데요, 이러한 돈이 들어오고 나가면서 장부 정리도
+필요하고, 내가 누구한테 줬고, 누가 나한테 얼마를 줬는지 정리를 하고, 추후 상대방에게 마음을 전달할 때 참고가 되곤 합니다.
+제 자신 또한, 장부를 기록하고 관리함에 있어 항상 불편함을 느꼈고, 이를 개선할 방법이 없나 고민하였습니다.
+장부 정리를 편리하고, 간편하게 기록하고 엑셀로 정리하여 볼 수 있는 앱을 만들어 보고자 개발하게 되었습니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 현재는 개발 진행중 입니다.
